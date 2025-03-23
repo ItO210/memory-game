@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/a511a9fa-fefc-4939-8cdb-5e1dec7db032
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ItO210/memory-game.git
+   git clone https://github.com/ItO210/memory-training-game.git
 
 2. Install pygame
 
